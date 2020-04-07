@@ -1,0 +1,4 @@
+﻿CREATE TABLE [dbo].[DataFile]
+(
+	[DataFileId] BIGINT NOT NULL PRIMARY KEY
+)
